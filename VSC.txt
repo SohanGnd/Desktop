@@ -1,0 +1,22 @@
+GitHub copilot
+GitLens
+LUA Debug
+Material Icon Theme
+Vue - Official
+Angular
+Color Picker
+ES7 + React/Redux..
+ESLint
+fivem-lua
+Franche Language Pack for VSC
+Git History
+Git Project Manager
+Live Preview
+Live Sass Compiler
+Live Server
+Live Share
+Open in Browser
+Prettier - Code Formatter
+Project Manager
+Search/Translate Hero
+Sort JSON objects
